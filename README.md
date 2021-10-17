@@ -2,7 +2,7 @@
 
 #### By _Amy and Rosario_
 
-#### _A website called "My First Website" with a little info about me! _
+#### A website called "My First Website" with a little info about me! 
 
 ## Technologies Used
 
