@@ -1,6 +1,6 @@
 # _My First Website_
 
-#### By _Amy and Rosario_
+#### By _Amy, Rosario, and Patrick_
 
 #### A website called "My First Website" with a little info about me! 
 
